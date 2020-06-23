@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+button {
+    display: block;
+    color: black;
+    margin: 0 auto;
+    background-color: white;
+    border: solid 3px black;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    float: left;
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 60px;
+    margin: 0 10px;
+
+}
